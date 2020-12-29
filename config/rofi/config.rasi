@@ -1,0 +1,6 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ theme: "Arc-Dark";
+ font: "mononoki Nerd Font Bold 12";
+ combi-modi: "window,drun,ssh";
+ }
